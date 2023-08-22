@@ -200,10 +200,6 @@ img {
 /* Make Responsive */
 @media screen and (max-width: 1024px) {
   body {
-    /* background-image: url(/image/aperture-vintage-tzX50rAtrtM-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
     position: relative;
     /* background: #2a2631; */
     color: var(--body-color);
@@ -225,10 +221,10 @@ img {
   }
 
   .container {
-    background-image: url(/image/aperture-vintage-tzX50rAtrtM-unsplash.jpg);
+/*     background-image: url(/image/aperture-vintage-tzX50rAtrtM-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
     padding: 1rem;
     position: relative;
     /* background: #29272f; */
@@ -381,10 +377,6 @@ img {
 
 @media screen and (max-width: 425px) {
   body {
-    /* background-image: url(/image/aperture-vintage-tzX50rAtrtM-unsplash.jpg);
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center; */
     position: relative;
     /* background: #2a2631; */
     color: var(--body-color);
@@ -406,10 +398,10 @@ img {
   }
 
   .container {
-    background-image: url(/image/aperture-vintage-tzX50rAtrtM-unsplash.jpg);
+/*     background-image: url(/image/aperture-vintage-tzX50rAtrtM-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
     padding: 1rem;
     position: relative;
     /* background: #29272f; */
